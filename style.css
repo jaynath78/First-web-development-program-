@@ -1,12 +1,7 @@
-p{
-  background-color: aquamarine;
+.red{
+  color: red;
 }
-a{
-  background-color:hwb(0 15% 24%);
-}
-div{
-  background-color:lightyellow;
-}
-span{
-  background-color: lightyellow;
-}
+.bg
+#firstdiv{
+  background-color: red;
+} 
